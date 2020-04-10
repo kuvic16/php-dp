@@ -6,5 +6,8 @@
     "classmap": [
       "src"
     ]
+  },
+  "require": {
+    "illuminate/database": "^7.5"
   }
 }
